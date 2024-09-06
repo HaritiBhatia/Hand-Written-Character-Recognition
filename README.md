@@ -20,8 +20,7 @@ The project heavily relies on the following libraries:
 - Keras: A high-level neural networks API that simplifies the creation and training of deep learning models.
 - NumPy: A fundamental package for scientific computing in Python, utilized for array manipulation and numerical operations.
 - Matplotlib: A plotting library for creating visualizations and graphs to aid in data analysis.
-- Pada: (Please provide a brief description of the Pada library and its role in the project).
-
+- Pandas
 ## Table of Contents
 
 - [Installation](#installation)
